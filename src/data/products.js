@@ -1,0 +1,36 @@
+const products = [
+    {"id": 1, "name": "iPhone 14", "price": 999, "image": "https://via.placeholder.com/150"},
+    {"id": 2, "name": "iPhone 13", "price": 899, "image": "https://via.placeholder.com/150"},
+    {"id": 3, "name": "iPhone 12", "price": 799, "image": "https://via.placeholder.com/150"},
+    {"id": 4, "name": "Samsung Galaxy S23", "price": 950, "image": "https://via.placeholder.com/150"},
+    {"id": 5, "name": "Samsung Galaxy S22", "price": 850, "image": "https://via.placeholder.com/150"},
+    {"id": 6, "name": "Samsung Galaxy A54", "price": 400, "image": "https://via.placeholder.com/150"},
+    {"id": 7, "name": "Google Pixel 8", "price": 799, "image": "https://via.placeholder.com/150"},
+    {"id": 8, "name": "Google Pixel 7", "price": 699, "image": "https://via.placeholder.com/150"},
+    {"id": 9, "name": "OnePlus 11", "price": 850, "image": "https://via.placeholder.com/150"},
+    {"id": 10, "name": "OnePlus 10 Pro", "price": 799, "image": "https://via.placeholder.com/150"},
+    {"id": 11, "name": "Xiaomi Mi 13", "price": 749, "image": "https://via.placeholder.com/150"},
+    {"id": 12, "name": "Xiaomi Redmi Note 12", "price": 250, "image": "https://via.placeholder.com/150"},
+    {"id": 13, "name": "Oppo Find X5", "price": 899, "image": "https://via.placeholder.com/150"},
+    {"id": 14, "name": "Vivo V27", "price": 650, "image": "https://via.placeholder.com/150"},
+    {"id": 15, "name": "Realme GT 2 Pro", "price": 850, "image": "https://via.placeholder.com/150"},
+    {"id": 16, "name": "Sony Xperia 1 IV", "price": 1200, "image": "https://via.placeholder.com/150"},
+    {"id": 17, "name": "Sony Xperia 10 IV", "price": 450, "image": "https://via.placeholder.com/150"},
+    {"id": 18, "name": "Asus Zenfone 9", "price": 750, "image": "https://via.placeholder.com/150"},
+    {"id": 19, "name": "Asus ROG Phone 6", "price": 1000, "image": "https://via.placeholder.com/150"},
+    {"id": 20, "name": "Huawei P50 Pro", "price": 1100, "image": "https://via.placeholder.com/150"},
+    {"id": 21, "name": "Huawei Mate 50", "price": 950, "image": "https://via.placeholder.com/150"},
+    {"id": 22, "name": "Nokia G60", "price": 300, "image": "https://via.placeholder.com/150"},
+    {"id": 23, "name": "Nokia X100", "price": 250, "image": "https://via.placeholder.com/150"},
+    {"id": 24, "name": "LG Velvet", "price": 550, "image": "https://via.placeholder.com/150"},
+    {"id": 25, "name": "LG Wing", "price": 1000, "image": "https://via.placeholder.com/150"},
+    {"id": 26, "name": "Motorola Edge 30", "price": 650, "image": "https://via.placeholder.com/150"},
+    {"id": 27, "name": "Motorola Moto G Power", "price": 200, "image": "https://via.placeholder.com/150"},
+    {"id": 28, "name": "Lenovo Legion Phone Duel", "price": 999, "image": "https://via.placeholder.com/150"},
+    {"id": 29, "name": "Honor Magic 5 Pro", "price": 950, "image": "https://via.placeholder.com/150"},
+    {"id": 30, "name": "Honor 90", "price": 800, "image": "https://via.placeholder.com/150"},
+  ];
+  
+  export default products;
+  
+   
